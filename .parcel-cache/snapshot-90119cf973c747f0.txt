@@ -1,4 +1,7 @@
 5902
+136C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\@parcel\core\test\fixtures\config-extends-not-found\.parcelrc-json5133638863712948731 0
+101C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\abortcontroller-polyfill\LICENSE133638863684408678 0
+71C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\dist\index.html133639575040629086 0
 114C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\caniuse-lite\data\features\input-minlength.js133638863789528223 0
 93C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\abortcontroller-polyfill133638863697823667 1
 104C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\type-fest\source\readonly-deep.d.ts133638863698007743 0
@@ -31,7 +34,7 @@
 93C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\dom-serializer\README.md133638863678465758 0
 89C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\csso\cjs\version.cjs133638863703640284 0
 100C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\cosmiconfig\dist\loaders.js.map133638863701329416 0
-60C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\dist133639549794794184 1
+60C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\dist133639575040659399 1
 117C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\@swc\core-win32-x64-msvc\swc.win32-x64-msvc.node133638863788266790 0
 107C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\lmdb\node_modules\node-addon-api\tools133638863735075005 1
 94C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\lines-and-columns\LICENSE133638863661655792 0
@@ -69,17 +72,17 @@
 103C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\node-addon-api\tools\conversion.js133638863683266943 0
 99C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\type-fest\source\value-of.d.ts133638863706431353 0
 68C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules133638863862897786 1
+112C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\csso\node_modules\css-tree\dist\version.cjs133638863760725856 0
+67C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\src\classes133638783860817401 1
+99C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\detect-libc\lib\detect-libc.js133638863679375826 0
+114C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\dom-serializer\node_modules\entities\lib\maps133638863718428855 1
+111C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\posthtml-parser\dist\location-tracker.d.ts133638863682226361 0
 91C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\lightningcss\README.md133638863692589199 0
 78C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\js-tokens133638863669787961 1
 91C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\msgpackr\node-index.js133638863697126625 0
 89C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\htmlnano\lib\presets133638863750389306 1
 59C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\src133638861575252565 1
 90C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\is-json\test\index.js133638863673789071 0
-112C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\csso\node_modules\css-tree\dist\version.cjs133638863760725856 0
-67C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\src\classes133638783860817401 1
-99C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\detect-libc\lib\detect-libc.js133638863679375826 0
-114C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\dom-serializer\node_modules\entities\lib\maps133638863718428855 1
-111C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\posthtml-parser\dist\location-tracker.d.ts133638863682226361 0
 84C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\tslib\README.md133638863671628537 0
 92C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\utility-types\README.md133638863684660518 0
 124C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\@babel\highlight\node_modules\color-name\.eslintrc.json133638863716580510 0
@@ -95,7 +98,7 @@
 86C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\svgo\package.json133638863705267799 0
 96C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\lmdb\src\ordered-binary.cpp133638863749856188 0
 153C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors\aliases.d.ts133638863738290004 0
-70C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\src\index.html133639544232306782 0
+70C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\src\index.html133639574847534644 0
 87C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\timsort\LICENSE.md133638863673177956 0
 100C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\caniuse-lite\data\regions\RS.js133638863806454365 0
 108C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\caniuse-lite\data\features\svg-html5.js133638863809456514 0
@@ -283,8 +286,8 @@
 94C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\@swc\helpers\cjs\_set.cjs133638863735206467 0
 136C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\@parcel\package-manager\test\fixtures\has-foo\node_modules\index.js133638863709129017 0
 98C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\ordered-binary\dist\index.cjs133638863666920475 0
-127C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\intro.doc133638863751003184 0
 89C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\is-json\package.json133638863666247964 0
+127C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\intro.doc133638863751003184 0
 99C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\source-map\lib\mapping-list.js133638863672116233 0
 77C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\entities133638863689826690 1
 120C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\@parcel\workers\test\integration\workerfarm\ping.js133638863707784099 0
@@ -304,10 +307,10 @@
 121C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\@parcel\transformer-html\node_modules\srcset\license133638863713069278 0
 111C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\css-tree\lib\syntax\function\expression.js133638863762082972 0
 89C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\escape-string-regexp133638863664478803 1
-77C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\has-flag133638863665670222 1
 97C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\ordered-binary\tests\test.js133638863672876098 0
 79C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\fill-range133638863664107073 1
 106C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\svgo\plugins\moveGroupAttrsToElems.js133638863731799715 0
+77C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\has-flag133638863665670222 1
 114C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\node-gyp-build-optional-packages\node_modules133638863652937468 1
 123C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\dom-serializer\node_modules\entities\lib\maps\xml.json133638863718519323 0
 77C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\htmlnano133638863751427934 1
@@ -1494,7 +1497,6 @@
 89C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\safe-buffer\index.js133638863662168542 0
 112C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\lmdb\dependencies\lz4\lib\lz4frame_static.h133638863753578293 0
 102C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\@parcel\workers\src\WorkerFarm.js133638863728640650 0
-102C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\postcss-value-parser\lib\index.js133638863662399447 0
 134C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\convertColors.js133638863734289815 0
 93C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\css-what\lib\es\types.js133638863677230235 0
 105C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\msgpackr\dist\unpack-no-eval.cjs.map133638863733146049 0
@@ -1614,6 +1616,7 @@
 93C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\postcss-value-parser\lib133638863671799314 1
 104C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\postcss-value-parser\lib\index.d.ts133638863672166335 0
 103C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\lmdb\dependencies\lz4\lib\Makefile133638863698299154 0
+102C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\postcss-value-parser\lib\index.js133638863662399447 0
 103C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\domutils\lib\manipulation.d.ts.map133638863678667361 0
 100C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\ordered-binary\rollup.config.js133638863671638614 0
 129C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\csso\node_modules\css-tree\lib\definition-syntax\generate.js133638863766766752 0
@@ -1801,9 +1804,9 @@
 94C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\lightningcss\package.json133638863691617979 0
 87C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\node-releases\data133638863665740781 1
 124C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\sample-bdb.txt133638863762143650 0
+108C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\@parcel\utils\test\prettifyTime.test.js133638863744909680 0
 95C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\node-releases\package.json133638863664137319 0
 117C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\@swc\helpers\_\_to_consumable_array\package.json133638863776237925 0
-108C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\@parcel\utils\test\prettifyTime.test.js133638863744909680 0
 109C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\css-select\node_modules\entities\lib\esm133638863749549738 1
 97C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\node-releases\data\processed133638863662369440 1
 87C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\json5\lib\index.js133638863687219021 0
@@ -4426,8 +4429,6 @@
 97C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\@swc\helpers\_\_to_primitive133638863776303010 1
 145C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Function.js133638863749116981 0
 90C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\ansi-styles\readme.md133638863664750563 0
-136C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\@parcel\core\test\fixtures\config-extends-not-found\.parcelrc-json5133638863712948731 0
-101C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\abortcontroller-polyfill\LICENSE133638863684408678 0
 103C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\abortcontroller-polyfill\README.md133638863698585810 0
 125C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\abortcontroller-polyfill\src\abortcontroller-polyfill.js133638863687178616 0
 116C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\abortcontroller-polyfill\src\abortcontroller.js133638863689751425 0
@@ -5895,9 +5896,8 @@
 80C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\.bin\parcel133638863845126710 0
 84C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\.bin\parcel.cmd133638863845126710 0
 100C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\node_modules\.bin\update-browserslist-db.cmd133638863845146695 0
+80C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\dist\braude.2d81424a.jpg133639574852420271 0
+79C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\dist\index.0e5c1f56.css133639574852400071 0
 78C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\dist\index.5023622d.js133639543567542814 0
+78C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\dist\index.b2981d46.js133639574852851241 0
 80C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\dist\lecture.507e4c78.js133639543674906267 0
-71C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\dist\index.html133639547139053364 0
-79C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\dist\index.0e5c1f56.css133639548823672147 0
-80C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\dist\braude.2d81424a.jpg133639548823762197 0
-78C:\Users\orenb\Documents\braude\sem6\Web\Week 4\lecture\dist\index.b2981d46.js133639549794774046 0
