@@ -1,7 +1,6 @@
 {
   "name": "lecture",
   "version": "1.0.0",
-  "main": "index.js",
   "type": "module",
   "scripts": {
     "dev": "parcel ./src/index.html -p 3031 --no-source-maps",
